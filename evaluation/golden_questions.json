@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the password reset policy?",
+    "expected_route": "KNOWLEDGE",
+    "expected_keywords": [
+      "password",
+      "reset"
+    ]
+  },
+  {
+    "question": "I cannot connect to the VPN. What troubleshooting steps should I follow?",
+    "expected_route": "SUPPORT",
+    "expected_keywords": [
+      "vpn",
+      "troubleshooting"
+    ]
+  },
+  {
+    "question": "Create a support ticket for my VPN issue.",
+    "expected_route": "ACTION",
+    "expected_keywords": [
+      "support ticket",
+      "created"
+    ]
+  }
+]
