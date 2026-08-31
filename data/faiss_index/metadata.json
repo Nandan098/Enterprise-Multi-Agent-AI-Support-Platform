@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Enterprise IT Support Policy Password Reset Policy Employees must reset passwords through the self-service identity portal. Passwords must be at least 12 characters long and may not reuse the previous five passwords. Password Expiry Standard user passwords expire every 90 days. Service accounts follow a separate rotation procedure. Multi-Factor Authentication Remote access to corporate systems requires multi-factor authentication.",
+    "source": "sample_enterprise_policy.pdf",
+    "page": 1,
+    "chunk_id": "sample_enterprise_policy-1-0"
+  },
+  {
+    "content": "VPN Support SOP VPN Troubleshooting First verify the device has internet access. Reconnect the VPN client, confirm the approved gateway is selected, and restart the client if the connection remains unavailable. Escalation If VPN connectivity remains unavailable after the documented troubleshooting steps, create an IT support ticket with the device hostname, error message, and approximate time of failure. Support Hours The IT service desk is available Monday through Friday, 9:00 AM to 6:00 PM local business time.",
+    "source": "sample_enterprise_policy.pdf",
+    "page": 2,
+    "chunk_id": "sample_enterprise_policy-2-0"
+  },
+  {
+    "content": "Enterprise IT Support Policy Password Reset Policy Employees must reset passwords through the self-service identity portal. Passwords must be at least 12 characters long and may not reuse the previous five passwords. Password Expiry Standard user passwords expire every 90 days. Service accounts follow a separate rotation procedure. Multi-Factor Authentication Remote access to corporate systems requires multi-factor authentication.",
+    "source": "sample_enterprise_policy.pdf",
+    "page": 1,
+    "chunk_id": "sample_enterprise_policy-1-0"
+  },
+  {
+    "content": "VPN Support SOP VPN Troubleshooting First verify the device has internet access. Reconnect the VPN client, confirm the approved gateway is selected, and restart the client if the connection remains unavailable. Escalation If VPN connectivity remains unavailable after the documented troubleshooting steps, create an IT support ticket with the device hostname, error message, and approximate time of failure. Support Hours The IT service desk is available Monday through Friday, 9:00 AM to 6:00 PM local business time.",
+    "source": "sample_enterprise_policy.pdf",
+    "page": 2,
+    "chunk_id": "sample_enterprise_policy-2-0"
+  }
+]

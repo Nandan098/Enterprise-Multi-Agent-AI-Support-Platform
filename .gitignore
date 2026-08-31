@@ -3,6 +3,5 @@
 __pycache__/
 .pytest_cache/
 *.pyc
-data/faiss_index/
 *.log
 .DS_Store
